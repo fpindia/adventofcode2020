@@ -1,4 +1,4 @@
-# adventofcode2020
+# Advent Of Code 2020
 Collaborative FP solutions to advent of code 2020
 
 Currently advent-of-coding -
