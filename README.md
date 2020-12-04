@@ -10,3 +10,4 @@ Currently advent-of-coding -
 ## Haskell solutions
 
 1. Shubham's solution - https://github.com/shubhamkumar13/advent_of_code_2020.git
+2. Sherub's solutions - https://github.com/sherubthakur/aoc2020
