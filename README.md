@@ -11,3 +11,7 @@ Currently advent-of-coding -
 
 1. Shubham's solution - https://github.com/shubhamkumar13/advent_of_code_2020.git
 2. Sherub's solutions - https://github.com/sherubthakur/aoc2020
+
+## Scala solutions
+
+1.Visar's solutions - https://github.com/visar/advent-of-code/
