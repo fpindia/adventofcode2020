@@ -14,4 +14,4 @@ Currently advent-of-coding -
 
 ## Scala solutions
 
-1.Visar's solutions - https://github.com/visar/advent-of-code/
+1. Visar's solutions - https://github.com/visar/advent-of-code/
