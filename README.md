@@ -15,6 +15,7 @@ Collaborative FP solutions to advent of code 2020
 ### Scala solutions
 
 1. Visar's solutions - https://github.com/visar/advent-of-code/
+2. Param's solutions - https://github.com/parambirs/advent-of-code-2020
 
 ## Starter Templates for Advent Of Code
 
