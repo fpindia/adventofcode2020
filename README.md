@@ -1,6 +1,11 @@
 # Advent Of Code 2020
 Collaborative FP solutions to advent of code 2020
 
+## Starter Templates for Advent Of Code
+
+1. Purescript template - https://github.com/fpindia/purescript-adventofcode
+2. ReasonML template - https://github.com/ManasJayanth/reason-aoc-starter
+
 ## Currently advent-of-coding
 
 ### Purescript solutions
@@ -16,8 +21,3 @@ Collaborative FP solutions to advent of code 2020
 
 1. Visar's solutions - https://github.com/visar/advent-of-code/
 2. Param's solutions - https://github.com/parambirs/advent-of-code-2020
-
-## Starter Templates for Advent Of Code
-
-1. Purescript template - https://github.com/fpindia/purescript-adventofcode
-2. ReasonML template - https://github.com/ManasJayanth/reason-aoc-starter
